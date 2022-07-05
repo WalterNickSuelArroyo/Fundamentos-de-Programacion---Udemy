@@ -183,7 +183,7 @@ Ejemplo: Realizar un algoritmo para determinar si un numero es positivo o negati
 ## Programa:
 - Es el conjunto de instrucciones escritas en algun lenguaje de programacion y que ejecutadas secuencialmente resuelven un problema especifico.
 
-# Lenguaje de programacion
+# 3. Lenguaje de programacion
 ## ¿Que es un lenguaje de programacion?
 - Es un conjunto de simbolos y reglas sintacticas y semanticas que definen su estructura y el significado de sus elementos y expresiones, y es utilizado para controlar el comportamiento fisico y logico de una maquina.
 - Los lenguajes de programacion tienen un conjunto de instrucciones que nos permiten realizar operaciones de entrada/salida, calculos, manipulacion de textos, logica/comparacion y almacenamiento/recuperacion.
@@ -206,3 +206,27 @@ Los lenguajes de programacion se pueden clasificar atendiendo a varios criterios
 3. Lenguaje de alto nivel: Son aquellos en los que las instrucciones o sentencias son escritas con palabras similares a los lenguajes humanos, lo que facilita la escritura y comprension del programa.
     - Ventaja: Son independientes de cada maquina, lo que los hace portable.
     - Inconveniente: El proceso de traduccion es muy largo y ocupa mas recursos.
+
+# 4. Lenguaje de programacion (parte 2)
+### Segun la forma de ejecucion
+1. Lenguajes compilados:
+    - Se compilan una vez y se utilizan cuantas veces se desee sin necesidad de volver a utilizar el compilador.
+    - Los compiladores analizan todo el programa y no generan resultados si no es correcto todo el codigo.
+2. Lenguajes interpretados: 
+    - Son interpretados cada vez que se ejecutan y necesitan siempre del interprete.
+    - Los interpretes analizan las instrucciones segun las necesitan y pueden iniciar la ejecucion de un programa con errores.
+
+### Segun el paradigma de la programacion
+Un paradigma de programacion representa un enfoque particular o filosofia para la construccion de un software
+
+1.  Algoritmo, Imperativo o por procedimientos
+    - El mas comun y esta representado,por ejemplo, por lenguajes de programacion como C o BASIC.
+    - Describe la programacion en terminos del estado del programa y sentencias que cambian dicho estado. Los programas imperativos son un conjunto de instrucciones que le indican al computador como realizar una tarea.
+2. Declarativo o predicativo
+    - Basado en la utilizacion de predicados logicos o funciones matematicas, su objetivo es conseguir lenguajes expresivos en los que no sea necesario especificar como resolver el problema (programacion convencional imperativo).
+3. Logico
+    - Un ejemplo es PROLOG. El mecanismo de inferencia generico se basa en los procedimientos de deduccion de formulas validas en un sistema axiomatico.
+4. Funcional
+    - Representado por la familia de lenguajes LISP. El mecanismo de inferencia generico se basa en la reproduccion de una expresion funcional a otra equivalente simplificada.
+5. Orientada a objetos
+    - Cada vez mas utilizado, sobre todo en combinacion con el imperativo. De hecho los lenguajes orientados a objetos permiten la programacion imperativa. Algunos ejemplos de lenguajes orientados a objetos son C++,Delphi,Java,Python,etc. Usa objetos y sus interacciones para diseñar aplicaciones y programas de computadora. Esta basado en varias tecnicas, incluyendo herencia, modularidad, polimorfismo y encapsulamiento.
