@@ -182,3 +182,27 @@ Ejemplo: Realizar un algoritmo para determinar si un numero es positivo o negati
 
 ## Programa:
 - Es el conjunto de instrucciones escritas en algun lenguaje de programacion y que ejecutadas secuencialmente resuelven un problema especifico.
+
+# Lenguaje de programacion
+## ¿Que es un lenguaje de programacion?
+- Es un conjunto de simbolos y reglas sintacticas y semanticas que definen su estructura y el significado de sus elementos y expresiones, y es utilizado para controlar el comportamiento fisico y logico de una maquina.
+- Los lenguajes de programacion tienen un conjunto de instrucciones que nos permiten realizar operaciones de entrada/salida, calculos, manipulacion de textos, logica/comparacion y almacenamiento/recuperacion.
+
+## Tipos de lenguajes de programacion:
+Los lenguajes de programacion se pueden clasificar atendiendo a varios criterios, los principales son:
+- Segun el nivel de abstraccion.
+- Segun la forma de ejecucion.
+- Segun el paradigma de programacion.
+
+### Segun el nivel de abstraccion:
+1. Lenguaje maquina: Las instrucciones en el lenguaje maquina se expresan en terminos de la unidad de memoria mas pequeña: el bit (digito binario 0 o 1).
+    - Ventaja: No necesita ser traucido, tiene una mayor adaptacion al equipo.
+    - Inconveniente: La dificultad y lentitud en la codificacion.
+2. Lenguaje de bajo nivel (ensamblador): Se utilizan palabras mnemotecnicas (abreviaturas). Por ejemplo, mnemotecnicos tipicos de operaciones aritmeticas son: ADD(sumar), SUB(restar), DIV(dividir), etc.
+
+    - Ejemplo: ADD A,B C
+- Ventaja: No es tan dificil como el lenguaje maquina.
+- Incoveniente: Cada maquina tiene su propio lenguaje, necesitamos un proceso de traduccion.
+3. Lenguaje de alto nivel: Son aquellos en los que las instrucciones o sentencias son escritas con palabras similares a los lenguajes humanos, lo que facilita la escritura y comprension del programa.
+    - Ventaja: Son independientes de cada maquina, lo que los hace portable.
+    - Inconveniente: El proceso de traduccion es muy largo y ocupa mas recursos.
