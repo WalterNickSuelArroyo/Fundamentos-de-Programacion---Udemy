@@ -336,3 +336,25 @@ logico misterio=verdadero;
 ![mark down image](img/i5.png "Tipos de datos")
 
 ![mark down image](img/i6.PNG "Tipos de datos")
+
+# 9. Operacion de asignacion
+Consiste en atribuir un valor a una variable:
+
+    Nombre de la variable <- expresion
+
+En algunos lenguajes de programacion, el simbolo puede variar a: "=",":="
+
+![mark down image](img/i7.PNG "Operacion de asignacion")
+
+El proceso de asignacion se realiza en 2 fases:
+- Se evalua la expresion de la parte derecha de la asignacion obteniendose un unico valor.
+- Se asigna ese valor a la variable de la parte izquierda, sustituyendose el valor que tenia anteriormente.
+
+        num=10;
+
+¿Que es lo que hay que tener en cuenta?
+- En la parte izquierda solo puede haber una variable.
+- La variable a la que se le asigna el valor pierde su valor anterior.
+- El tipo de dato del valor que se obtiene al evaluar la parte derecha tiene que ser el mismo que el tipo de dato de la variable de la parte izquierda, es decir a una variable solo se le pueden dar valores de su mismo tipo de dato.
+
+![mark down image](img/i8.PNG "Operacion de asignacion")
