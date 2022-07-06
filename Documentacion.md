@@ -272,4 +272,50 @@ La documentacion se divide en tres partes:
 
 ## Mantenimiento
 Se lleva a cabo despues de determinado el programa, cuando se detecta que es necesario hacer algun cambio, ajuste o complementacion al programa para que siga trabajando de manera correcta. Para poder realizar este trabajo se requiere que el programa este correctamente documentado.
-     
+
+# 6. Descargar e instalar PSeInt
+## Entidades primitivas
+1. Descargar PSeInt
+2. Identificadores (Constantes y Variables)
+3. Tipos de datos
+4. Operacion de asignacion
+5. Operadores y Operandos
+6. Funciones internas
+7. Entrada y salida de informacion
+8. Ejercicios
+
+## ¿Que es PSeInt?
+PSeInt es una herramienta para asistir a un estudiante en sus primeros pasos en programacion. Mediante un simple e intuitivo pseudolenguaje en español (complementado con un editor de diagramas de flujo), le permite centrar su atencion en los conceptos fundamentales de la algoritmia computacional, minimizando las dificultades propias de un lenguaje y proporcionando un entorno de trabajo con numerosas ayudas y recursos didacticos.
+# 7. Identificadores (Constantes y Variables)
+## Identificadores:
+Los identificadores representan los datos de un programa (constantes o variables). Un identificador es una secuencia de caracteres que sirve para identificar una posicion en la memoria de la computadora, que nos permite accesar a su contenido
+
+![mark down image](i3.png "Identificadores")
+
+## Reglas para formar un Identificador
+- Debe comenzar con una letra (A - Z, mayusculas o minusculas) y no deben contener espacios en blanco.
+- Letras, digitos y caracteres, pueden estar unidos por un caracter subrayado como "_".
+- El primer caracter no puede ser un numero.
+
+![mark down image](i4.png "Ejemplo de identificadores")
+
+## Tipos de Identificadores
+### Constantes:
+Una constante es un dato numerico o alfanumerico que no cambia durante la ejecucion del programa.
+
+Ejemplo:    PI = 3,1416
+
+### Variables:
+Es un espacio en la memoria de la computadora que permite almacenar temporalmente un dato durante la ejecucion de un proceso, su contenido puede cambiar durante la ejecucion del programa.
+
+Ejemplo:  area = (base*altura)/2
+
+### Clasificacion de las variables
+1. Por su contenido
+    - Numericas.
+    - Logicas.
+    - Alfanumericas (String)
+2. Por su uso
+    - De trabajo
+    - Contadores
+    - Acumuladores
