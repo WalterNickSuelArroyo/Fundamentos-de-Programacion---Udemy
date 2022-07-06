@@ -230,3 +230,46 @@ Un paradigma de programacion representa un enfoque particular o filosofia para l
     - Representado por la familia de lenguajes LISP. El mecanismo de inferencia generico se basa en la reproduccion de una expresion funcional a otra equivalente simplificada.
 5. Orientada a objetos
     - Cada vez mas utilizado, sobre todo en combinacion con el imperativo. De hecho los lenguajes orientados a objetos permiten la programacion imperativa. Algunos ejemplos de lenguajes orientados a objetos son C++,Delphi,Java,Python,etc. Usa objetos y sus interacciones para diseñar aplicaciones y programas de computadora. Esta basado en varias tecnicas, incluyendo herencia, modularidad, polimorfismo y encapsulamiento.
+
+# 5. Metodologias para la solucion de problemas
+Desde el punto de vista educativo, la solucion de problemas mendiante la programacion posibilita la activacion de una amplia variedad de estilos de aprendizaje. Pueden encontrar diversas maneras de abordar problemas y plantear soluciones.
+
+Es por ello que, debemos considerar cuatro fases, en esencia, para resolver problemas especificos mediante la programacion de computadores.
+1. Analizar el problema.
+2. Diseñar un algoritmos.
+3. Traducir el algoritmo a un lenguaje de programacion.
+4. Depurar el programa.
+
+## Definicion del problema:
+Esta fase esta dada por el enunciado del problema, el cual requiere una definicion clara y precisa. Es importante que se conozca lo que se desea que realice la computadora; mientras esto no se conozca del todo no tiene mucho caso continuar con la siguiente etapa.
+ ## Analisis del problema:
+Una vez que se ha comprendido lo que se desea de la computadora, es necesario definir
+- Los datos de entrada.
+- Cual es la informacion que se desea producir (salida).
+- Los metodos y formulas que se necesitan para procesar los datos.
+## Diseño del algoritmo
+Las caracteristicas de un buen algoritmo son:
+- Debe tener un punto particular de inicio.
+- Debe ser preciso e indicar el orden de realizacion de cada paso.
+- Debe ser definido, no debe permitir dobles interpretaciones.
+- Debe ser general.
+- Debe ser finito en tamaño y tiempo de ejecucion
+## Codificacion
+La codificacion es la operacion de escribir la solucion del programa (de acuerdo a la logica del diagrama de flujo o pseudocodigo), en una serie de instrucciones detalladas, en un codigo reconocible por la computadora, la serie de instrucciones detalladas se le conoce como codigo fuente, el cual se escribe en un lenguaje de programacion.
+## Prueba y depuracion 
+Los errores humanos dentro de la programacion de computadoras son muchos y aumentan considerablemente con la complejidad del problema. El proceso de identificar y eliminar errores, para dar paso a una solucion sin errores se le llama depuracion.
+
+La depuracion o prueba resulta una tarea tan creativa como el mismo desarrollo de la solucion, por ello se debe considerar con el mismo interes y entusiasmo.
+## Documentacion
+Es la guia o cumunicacion escrita en sus variadas formas, ya sea en enunciados, procedimientos, dibujos o diagramas.
+
+A menudo un programa escrito por una persona, es usado por otra. Por ello la documentacion sirve para ayudar a comprender o usar un programa o para facilitar futuras modificaciones (mantenimiento).
+
+La documentacion se divide en tres partes:
+- Documentacion interna: Es aquella que se crea en el mismo codigo, puede ser en forma de comentarios o de archivos de informacion dentro de la aplicacion.
+- Documentacion externa: Es aquella que se escribe en cuadernos o libros, totalmente ajena a la aplicacion en si.
+- Manual de usuario: Documento de comunicacion tecnica que busca brindar asistencia a los sujetos que usan un sistema.
+
+## Mantenimiento
+Se lleva a cabo despues de determinado el programa, cuando se detecta que es necesario hacer algun cambio, ajuste o complementacion al programa para que siga trabajando de manera correcta. Para poder realizar este trabajo se requiere que el programa este correctamente documentado.
+     
