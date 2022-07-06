@@ -114,7 +114,7 @@ Es el conjunto de programas que controlan el funcionamiento del hardware de una 
 **Procesamiento de la informacion:**
 - La informacion se puede introducir en la computadora como entrada(input) y a continuacion se procesan para producir una salida (output).
 
-![mark down image](i1.png "Procesamiento de la informacion")
+![mark down image](img/i1.png "Procesamiento de la informacion")
 
 
 # 2. Algoritmo y Programa
@@ -178,7 +178,7 @@ Es una serie de simbolos y reglas que se utilizan para describir de manera expli
 Ejemplo: Realizar un algoritmo para determinar si un numero es positivo o negativo
 
 
-![mark down image](i2.png "Procesamiento de la informacion")
+![mark down image](img/i2.png "Procesamiento de la informacion")
 
 ## Programa:
 - Es el conjunto de instrucciones escritas en algun lenguaje de programacion y que ejecutadas secuencialmente resuelven un problema especifico.
@@ -290,14 +290,14 @@ PSeInt es una herramienta para asistir a un estudiante en sus primeros pasos en 
 ## Identificadores:
 Los identificadores representan los datos de un programa (constantes o variables). Un identificador es una secuencia de caracteres que sirve para identificar una posicion en la memoria de la computadora, que nos permite accesar a su contenido
 
-![mark down image](i3.png "Identificadores")
+![mark down image](img/i3.png "Identificadores")
 
 ## Reglas para formar un Identificador
 - Debe comenzar con una letra (A - Z, mayusculas o minusculas) y no deben contener espacios en blanco.
 - Letras, digitos y caracteres, pueden estar unidos por un caracter subrayado como "_".
 - El primer caracter no puede ser un numero.
 
-![mark down image](i4.png "Ejemplo de identificadores")
+![mark down image](img/i4.png "Ejemplo de identificadores")
 
 ## Tipos de Identificadores
 ### Constantes:
@@ -319,3 +319,20 @@ Ejemplo:  area = (base*altura)/2
     - De trabajo
     - Contadores
     - Acumuladores
+
+# 8. Tipos de datos
+Los tipos de datos hacen referencia al tipo de informacion que se trabaja, todos los datos tienen un tipo asociado con ellos. El tipo de dato determina la naturaleza del conjunto de valores que puede tomar una variable.
+
+Ejemplo:
+
+entero numero1 =10;
+
+real numero2=19.56;
+
+caracter letra='a';
+
+logico misterio=verdadero;
+
+![mark down image](img/i5.png "Tipos de datos")
+
+![mark down image](img/i6.PNG "Tipos de datos")
